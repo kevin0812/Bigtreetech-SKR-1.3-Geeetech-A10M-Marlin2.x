@@ -94,7 +94,7 @@ TMC                ?= 1
 
 ############
 # Try to automatically determine whether RELOC_WORKAROUND is needed based
-# on GCC versions::
+# on GCC versions:
 #   http://www.avrfreaks.net/comment/1789106#comment-1789106
 
 CC_MAJ:=$(shell $(CC) -dM -E - < /dev/null | grep __GNUC__ | cut -f3 -d\ )
