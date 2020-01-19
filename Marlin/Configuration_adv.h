@@ -2046,7 +2046,7 @@
   #define X2_HYBRID_THRESHOLD    100
   #define Y_HYBRID_THRESHOLD     150  //120amg
   #define Y2_HYBRID_THRESHOLD    100
-  #define Z_HYBRID_THRESHOLD       3 /30amg
+  #define Z_HYBRID_THRESHOLD       3 //30amg
   #define Z2_HYBRID_THRESHOLD      30
   #define Z3_HYBRID_THRESHOLD      30
   #define E0_HYBRID_THRESHOLD     10 //20amg
